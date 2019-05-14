@@ -1,0 +1,10 @@
+GUIA: 
+
+add_asset: /add_asset/name/domain/precision
+add_domain: /add_domain/domain/role
+add_account: /add_account/name/domain
+add_vote_to_admin: /add_vote_to_admin/name/domain/amount
+get_user_details: /get_user_details/name/domain/
+get_asset_info: /get_asset_info/name/domain
+get_account_assets: /get_account_assets/name/domain
+transfer_vote_from_admin_to_user: /transfer_vote_from_admin_to_user/aName/aDomain/uName/uDomain/assetName/assetDomain/amount
